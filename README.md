@@ -11,6 +11,8 @@ Dates depending on Easter were calculated using a script (contained in this repo
 
 However, as most of the data was transferred by hand, no gurantee on corectness or completness is given. If you find an issue, please report it back.
 
+Data about school holidays is currently available from 2009 to 2026. The data was sourced from [KMK PDFs](https://www.kmk.org/service/ferienregelung.html), extracted via LLM assisted OCR and hand-checked row by row.
+
 # What is counted as a public holiday?
 A public holiday for the purpose of this repository is hereby defined as a day mentioned in German federal or state legislation, where most commercial activities are prohibited, shops are closed, and employees are generally entitled to paid time off, that is not protected by law because it is a Sunday.
 Apart from this definition, a public holiday may be excluded if
